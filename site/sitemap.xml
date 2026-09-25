@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://nturobotics.github.io/page/</loc>
+         <loc>https://nturobotics.github.io/nturobotics/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://nturobotics.github.io/nturobotics/projects/arm/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://nturobotics.github.io/nturobotics/projects/frisbee/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://nturobotics.github.io/nturobotics/projects/rover/</loc>
          <lastmod>2026-09-25</lastmod>
     </url>
 </urlset>
