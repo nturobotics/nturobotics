@@ -4,11 +4,11 @@ site_author: ket3l4
 site_url: https://nturobotics.github.io/nturobotics
 theme: 
   name: material
-  language : en
+  language: en
 
 nav:
   - About Us: index.md
   - Projects:
-      - Robot Arm: projects/project1.md
-      - Rover: projects/project2.md
-      - Frisbee Thrower: projects/project3.md
+      - Robot Arm: projects/arm.md
+      - Rover: projects/rover.md
+      - Frisbee Thrower: projects/frisbee.md
