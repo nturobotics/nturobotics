@@ -1,7 +1,6 @@
 site_name: NTU ROBOTICS
 site_description: Club documentation page
 site_author: ket3l4
-site_url: https://nturobotics.github.io/nturobotics
 theme: 
   name: material
   language: en
