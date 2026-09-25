@@ -1,0 +1,14 @@
+site_name: NTU ROBOTICS
+site_description: A friendly, step by step guide to building and publishing a documentation website with MkDocs, even if you have never used GitHub.
+site_author: one-bag
+site_url: https://one-bag.github.io/mkdocs-tutorial/
+theme: 
+  name: material
+  language : en
+
+nav:
+  - About Us: index.md
+  - Projects:
+      - Robot Arm: projects/project1.md
+      - Rover: projects/project2.md
+      - Frisbee Thrower: projects/project3.md
