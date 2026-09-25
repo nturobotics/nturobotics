@@ -11,3 +11,7 @@ nav:
       - Robot Arm: projects/arm.md
       - Rover: projects/rover.md
       - Frisbee Thrower: projects/frisbee.md
+
+extra_css:
+  - stylesheets/extra.css
+
